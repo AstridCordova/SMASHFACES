@@ -1,0 +1,35 @@
+/* Inserta tu codigo aqui */
+.container {
+	background: #F8ECE0;
+	padding-bottom: 3%;
+	height: 100vh;
+}
+
+h1 {
+	text-align: center;
+    margin-bottom: 5%;
+}
+
+p {
+	font-size: 20px;
+    text-align: right;
+}
+
+.selectpicker {
+	background: #FFF;
+	width: 100%;s
+}
+
+button {
+	background: #337AE4;
+	color: white;
+    border: none;
+    padding: 2%;
+    border-radius: 5px;
+    margin-top: 5%;
+}
+
+#cajafotos {
+	width: 80%;
+	margin: auto;
+}
